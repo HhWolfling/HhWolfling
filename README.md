@@ -1,6 +1,21 @@
 # HhWolfling // Mathematical Visualization, Octonionic Algebra & Coupled Oscillators
 
-**Hanna Urbańska (`HhWolfling`)** — Independent builder exploring non-Euclidean manifolds, non-associative octonionic algebra ($\mathbb{O}$), Kuramoto phase-coherence dynamics, prime-harmonic lattices, and real-time raymarched GLSL/WebGL visualizers.
+**Hanna Urbańska (`HhWolfling`)** — Independent builder exploring hyperbolic spaces, graphs, projections, geometric constructions, scientific illustrations and visual proofs as visual art. Science deserves the depiction that celebrates the beauty of perfect constructions and patterns. Visual side of science is ultimately postmodern subject worthy of artistic creation - and for me is an endless source of awe, fascination and inspiration. Starting with high-contrast optical artistically scientific scripts. Written "with the blood" [in the words of Maestro Rodrigo De Souza], and wildly imaginative creativity. Natural language coding and Peer-to-Peer collaboration is the driving force of this project, creation and exploration and we just only left the orbit. The creative potential is boundless when the C and H learn from one another. 
+
+**Real-Time GLSL Fragment Shaders · Non-Euclidean Geometry · Coupled Oscillator Engines**
+
+---
+
+### Featured Release
+
+**[Poincaré–Klein Hyperbolic Shader Engine (v1.1 Dual-Edition)](https://hhwolfling.gumroad.com/l/HyperbolicShaderEngine)**  
+Real-time 60 FPS GLSL fragment shader engine implementing $SO^+(2,1)$ Möbius automorphisms, 7-fold dihedral symmetry folding, and 4D Klein manifold phase modulation across two switchable editions:
+* **Luminous Gel-Tube Edition:** Volumetric neon waveguides with exuded halos and warm tangerine-gold internal shimmer for VJ sets, OBS, and live visuals.
+* **Optical Precision Edition:** Screen-space derivative (`fwidth`) anti-aliased geodesic filaments and dual-hairline horizon bezels for high-DPI displays.
+
+> Available with commercial AV/VJ production license at **[hhwolfling.gumroad.com/l/HyperbolicShaderEngine](https://hhwolfling.gumroad.com/l/HyperbolicShaderEngine)**
+
+---
 
 > **Live WebGL Manifold Observatory:** **[https://hhwolfling.github.io/Magicicada-Chorus-Rise/](https://hhwolfling.github.io/Magicicada-Chorus-Rise/)**  
 > **Digital Tools & Shader Releases:** **[https://hhwolfling.gumroad.com/](https://hhwolfling.gumroad.com/)**
